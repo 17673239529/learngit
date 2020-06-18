@@ -1,2 +1,2 @@
 hello word
-hello is word
+hello is a word
